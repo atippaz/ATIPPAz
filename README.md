@@ -1,5 +1,5 @@
-## hello everyone losting in here!!
 ## my name is ATIPPA 
+i am 21 years old  
 **Nice to meet you ❤**
 <!--
 **ATIPPAz/ATIPPAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
