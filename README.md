@@ -7,8 +7,7 @@ My NickName is Prame
 I Am Student at KMUTNB University (Mathematic Computer Science) I can develop Web Application And Desktop Application or Solve programming problems
 
 * 🌍  I'm based in Thailand, Nonthaburi
-* ✉️  You can contact me at [nasakun13201@gmail.com](mailto:nasakun13201@gmail.com)
-* 🚀  I'm currently working on [SuperDev](http://www.superdev.tech/)
+* ✉️  You can contact me at [atip.nasakun.work@gmail.com](mailto:atip.nasakun.work@gmail.com)
 * ⚡  Interesting in AI ,Deep Learning ,Machine Learning ,New Technology or StartUp And Hackathon
 
 ### Skills
@@ -39,4 +38,6 @@ I Am Student at KMUTNB University (Mathematic Computer Science) I can develop We
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Atip Nasakun#0952" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://discord.com/users/Atip Nasakun#0952" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+</p>
