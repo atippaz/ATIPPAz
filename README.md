@@ -1,43 +1,63 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atip Nasakun
-======================================================================================================================================================
+<h1> <i>Hi, I'm Atippa</i></h1>
 
-I Am Student
-------------
-My NickName is Prame
-I Am Student at KMUTNB University (Mathematic Computer Science) I can develop Web Application And Desktop Application or Solve programming problems
-
-* 🌍  I'm based in Thailand, Nonthaburi
-* ✉️  You can contact me at [atip.nasakun.work@gmail.com](mailto:atip.nasakun.work@gmail.com)
-* ⚡  Interesting in AI ,Deep Learning ,Machine Learning ,New Technology or StartUp And Hackathon
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<!-- <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a> -->
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> -->
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<!-- <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a> -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<!-- <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a> -->
-<!-- <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> -->
-<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> -->
+<br>
+<p>
+  I'm <strong><i>Pream</i></strong> from Thailand. I just an developer. I've full passion in the software Developer. I love Technology 
 </p>
 
+<h2><i>Stil learning and Pratice</i></h2>
 
-### Socials
+<ul>
+  <li>
+    Go
+  </li>
+   <li>
+    Rust
+  </li>
+ <li>
+    React
+  </li>
+</ul>
 
-<p align="left"> 
-  <a href="https://discord.com/users/Atip Nasakun#0952" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-</p>
+<h2> <i>Backend</i></h2><ul>
+  <li><strong><i>C#</i></strong></li>
+  <ul>
+    <li>asp.net</li>
+  </ul>
+  <li><strong><i>Javascript/Typescript</i></strong></li>
+  <ul>
+    <li>✨Express</li>
+    <li>✨NestJS</li>
+  </ul>
+</ul>
+
+<h2><i>Frontend</i></h2><ul>
+  <li><strong><i>Vue</i></strong></li>
+  <ul>
+    <li>Nuxt</li>
+  </ul>
+</ul>
+
+<h2><i>Database</i></h2><ul>
+  <li><strong><i>Vue</i></strong></li>
+  <ul>
+    <li>PostgreSQL</li>
+    <li>MongoDb</li>
+    <li>Mysql</li>
+    <li>MicrosoftSql</li>
+  </ul>
+</ul>
+<h2><i>Other</i></h2><ul>
+  <li><strong><i>Vue</i></strong></li>
+  <ul>
+    <li>Docker</li>
+    <li>Aws</li>
+    <li>Vercel</li>
+    <li>Digital Ocearn</li>
+    <li>Ubuntu</li>
+    <li>Nginx</li>
+    <li>Arduino</li>
+    <li>Socket</li>
+    <li>Desktop App(C# Winform)</li>
+  </ul>
+</ul>
