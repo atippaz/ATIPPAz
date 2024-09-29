@@ -9,13 +9,13 @@
 
 <ul>
   <li>
-    Go
+    Go (Echo,Fiber)
   </li>
    <li>
     Rust
   </li>
  <li>
-    React
+    React (Remix,Next)
   </li>
 </ul>
 
